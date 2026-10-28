@@ -4,11 +4,11 @@
 window.ALLOC_CFG = {
   NAME: "ALLOCATION",
   TICKER: "ALLOC",
-  CA: "",
+  CA: "DocW7k2HPCVpwsPWgWnVJLti69f4n8qzAn6Eih27fZ7t",
   CHAIN: "solana",
   PAD: "stonkfun",
   PAIR: "SPCXX",
-  X: "",
+  X: "https://x.com/usealloc",
   BUY: "",
   CHART: "",
   RPC: "/api/rpc"
